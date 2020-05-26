@@ -1,0 +1,2 @@
+rootProject.name='HCI2020_AlertDialog_Wookie'
+include ':app'
